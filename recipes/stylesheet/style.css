@@ -20,7 +20,7 @@ main,
     height: 400;
 }
 
-.menu{
+.menu li{
     list-style-type: none;
 }
 
