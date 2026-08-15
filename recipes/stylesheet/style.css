@@ -1,0 +1,38 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-size: 16px;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+main,
+.main{
+    border: 2px solid lightsalmon;
+    margin: 16px 30px;
+    padding: 10px;
+    display: inline-block;
+    width: 600px;
+    height: 400;
+}
+
+.menu{
+    list-style-type: none;
+}
+
+.heading{
+    font-weight: bold;
+} 
+
+p,
+ul,
+ol,
+.heading,
+img{
+    padding-left: 20px;
+    margin: 8px auto;
+}
