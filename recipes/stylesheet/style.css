@@ -22,6 +22,12 @@ main,
 
 .menu li{
     list-style-type: none;
+    display: inline-block;
+    margin: 3px;
+}
+
+.menu li::after{
+    content: ">";
 }
 
 .heading{
